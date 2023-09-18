@@ -29,7 +29,7 @@ ul {
 }
 
 li {
-  font-size: 19px
+  font-size: 19px;
 }
 
 footer {
@@ -40,16 +40,16 @@ footer {
   font-family: cursive;
 }
 
-/* end text and container styles */
-
-/* border and image styles */
-
 .border-black {
   border: solid black;
   margin: 100px;
   padding: 25px;
   text-align: center;
 }
+
+/* end text and container styles */
+
+/* image styles */ 
 
 img {
   margin: 42px;
@@ -58,4 +58,4 @@ img {
   text-align: center;
 }
 
-/* end border and image styles */
+/* end image styles */
