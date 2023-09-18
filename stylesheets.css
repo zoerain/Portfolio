@@ -51,16 +51,11 @@ footer {
   text-align: center;
 }
 
-.image-one {
-  display: block;
-  margin-left: 500px;
-  margin-right: auto;
-}
-
-.image-two {
-  display: block;
-  margin-right: 500px;
-  margin-left: auto;
+img {
+  margin: 42px;
+  border: solid black;
+  padding: 30px;
+  text-align: center;
 }
 
 /* end border and image styles */
