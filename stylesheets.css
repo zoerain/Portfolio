@@ -3,6 +3,8 @@ html {
   width: 100%;
 }
 
+/* text and container styles */
+
 header {
   text-align: center;
   background-color: #fbd0ef;
@@ -38,23 +40,27 @@ footer {
   font-family: cursive;
 }
 
-.borderblack {
-  border: solid;
+/* end text and container styles */
+
+/* border and image styles */
+
+.border-black {
+  border: solid black;
   margin: 100px;
   padding: 25px;
   text-align: center;
 }
 
-img {
+.image-one {
   display: block;
   margin-left: 500px;
   margin-right: auto;
 }
 
-.border-two {
-  border: solid black;
-  text-align: center;
-  margin: 100px;
-  padding: 25px;
+.image-two {
+  display: block;
+  margin-right: 500px;
+  margin-left: auto;
 }
 
+/* end border and image styles */
